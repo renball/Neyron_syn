@@ -1,0 +1,4 @@
+﻿  Neyro_dif.cpp
+C:\Users\q\source\repos\Neyron\Neyron\Neyro_dif.cpp(11,9): warning C4101: I_1: неиспользованная локальная переменная
+C:\Users\q\source\repos\Neyron\Neyron\Neyro_dif.cpp(11,14): warning C4101: I_2: неиспользованная локальная переменная
+  Neyron.vcxproj -> C:\Users\q\source\repos\Neyron\x64\Debug\Neyron.exe
